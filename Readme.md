@@ -214,36 +214,3 @@ The following table compares this method to other recent techniques, which have 
 | Qiaoliang et al. [6]    | .9879            |
 | Liskowski et al.^ [8]   | .9930            |
 | **this method**         | **.9805**        |
-
-^ different definition of FOV
-
-## Bibliography
-
-[1] Soares et al., “Retinal vessel segmentation using the 2-d Gabor wavelet and supervised classification,” *Medical Imaging, IEEE Transactions on*, vol. 25, no. 9, pp. 1214–1222, 2006.
-
-[2] Azzopardi et al., “Trainable cosfire filters for vessel delineation with application to retinal images,”
-*Medical image analysis*, vol. 19, no. 1, pp. 46–57, 2015.
-
-[3] Osareh et al., “Automatic blood vessel segmentation in color images of retina,” *Iran. J. Sci. Technol. Trans. B: Engineering*, vol. 33, no. B2, pp. 191–206, 2009.
-
-[4] Roychowdhury et al., “Blood vessel segmentation of fundus images by major vessel extraction and subimage
-classification,” *Biomedical and Health Informatics, IEEE Journal of*, vol. 19, no. 3, pp. 1118–1128, 2015.
-
-[5] Fraz et al., "An Ensemble Classification-Based Approach Applied to Retinal Blood Vessel Segmentation",   *IEEE Transactions on Biomedical Engineering*, vol. 59, no. 9, pp. 2538-2548, 2012.
-
-[6] Qiaoliang et al., "A Cross-Modality Learning Approach for Vessel Segmentation in Retinal Images", *IEEE Transactions on Medical Imaging*, vol. 35, no. 1, pp. 109-118, 2016.
-
-[7] Melinscak et al., "Retinal vessel segmentation using deep neural networks", *In Proceedings of the 10th International Conference on Computer Vision Theory and Applications (VISIGRAPP 2015)*, (2015), pp. 577–582.
-
-[8] Liskowski et al., "Segmenting Retinal Blood Vessels with Deep Neural Networks",  *IEEE Transactions on Medical Imaging*, vol. PP, no. 99, pp. 1-1, 2016.
-
-
-## Acknowledgements
-
-This work was supported by the EU Marie Curie Initial Training Network (ITN) “REtinal VAscular Modelling, Measurement And Diagnosis" (REVAMMAD), Project no. 316990.
-
-## License
-
-This project is licensed under the MIT License
-
-Copyright (c) 2016 Daniele Cortinovis, Orobix Srl (www.orobix.com).
